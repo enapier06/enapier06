@@ -7,7 +7,7 @@ Software Engineer
 I'm a self-taught software engineer, who loves programming in a number of languages such as Java, Python and and C#.
 
 * 🌍  I'm based in Brighton, England
-* 🖥️  See my portfolio at [Portfolio](http://(s)://enapier06.github.io/Eamon_Napier_Portfolio_Website/)
+* 🖥️  See my portfolio at [Portfolio](https://enapier06.github.io/Eamon_Napier_Portfolio_Website/)
 * ✉️  You can contact me at [napiereamon@gmail.com](mailto:napiereamon@gmail.com)
 * 🧠  I'm learning Full Stack Engineering
 
